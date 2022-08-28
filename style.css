@@ -8,10 +8,9 @@ h3{
   margin: 1vw;
   display: flex;
   align-items: center;
-}
-
-main{
-  display: flex;
+  border-style: solid;
+  border-color: white;
+  padding: 5px;
 }
 
 body{
@@ -21,4 +20,9 @@ body{
 img{
   background-color: white;
   height: 30px;
+  margin-left: 5px;
+}
+
+img:hover{
+  opacity: 0.5;
 }
