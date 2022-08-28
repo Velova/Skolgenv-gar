@@ -1,0 +1,24 @@
+h3{
+  color: white;
+}
+
+.schema, .mtgn, .canvas{
+  background-color: black;
+  width: fit-content;
+  margin: 1vw;
+  display: flex;
+  align-items: center;
+}
+
+main{
+  display: flex;
+}
+
+body{
+  background-color: black;
+}
+
+img{
+  background-color: white;
+  height: 2vw;
+}
